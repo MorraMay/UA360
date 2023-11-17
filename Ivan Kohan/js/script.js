@@ -105,8 +105,8 @@ function getWeatherForDefaultCity() {
 
 
 
-       const TOKEN = "6688250245:AAG6Xs9pKTnPwF7sPSPq3rvbqlC43Zty0Cg";
-		const CHAT_ID = "-1001713512717";
+       const TOKEN = "6880858312:AAGZ_RUljB-ji__EV4DjfmP1vaRK8WdSSgQ";
+		const CHAT_ID = "@YeDragonBank";
 		const URI_API = `https://api.telegram.org/bot${TOKEN}/sendMessage`;
 		
 
